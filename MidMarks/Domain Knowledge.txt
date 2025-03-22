@@ -1,0 +1,22 @@
+Dataset Overview
+The dataset consists of 718 records and 8 columns related to students’ mid-term examination marks. However, some columns contain missing values. The attributes include student serial numbers, section details, and marks for different subjects. The data types suggest that most columns are categorical or numerical, though some marks are stored as object-type values, possibly requiring conversion.
+
+Dataset Description
+S.NO (Float) – Serial number assigned to each student (contains missing values).
+
+SECTION (Object) – Section name/class of the student (e.g., ALPHA).
+
+DV (Object) – Marks obtained in the Digital VLSI (DV) subject.
+
+M-II (Object) – Marks for Mathematics-II (M-II) subject.
+
+PP (Object) – Marks for Physics Practicals (PP) subject.
+
+BEEE (Object) – Marks for Basic Electrical and Electronics Engineering (BEEE) subject.
+
+FL (Object) – Marks for Foreign Language (FL) subject.
+
+FIMS (Object) – Marks for Financial and Industrial Management Studies (FIMS) subject.
+
+Conclusion
+This dataset provides a comprehensive view of student performance in multiple subjects, allowing for performance comparisons across sections. However, data preprocessing is required due to missing values and potential formatting inconsistencies. This dataset can be leveraged for academic performance analysis, identifying weak subjects, and evaluating section-wise trends to support decision-making in education.
