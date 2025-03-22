@@ -1,0 +1,35 @@
+Dataset Description
+The Center Sector Scheme 2021-22 dataset provides a detailed financial overview of various schemes under different ministries and departments of the Indian government. This dataset includes budget allocations, actual expenditures, and revised estimates for multiple years. The analysis of this dataset helps in understanding trends in public spending, identifying key areas of investment, and evaluating the effectiveness of budget allocation.
+
+Dataset Overview:
+Category – Identifies demand categories (e.g., Demand No. 1, Demand No. 2).
+
+Sl.No. – Serial number of the scheme (may contain missing values).
+
+Ministry/Department – The name of the government ministry or department implementing the scheme.
+
+Scheme – The name of the central sector scheme under consideration.
+
+Actuals2019-2020 - Revenue – The revenue expenditure incurred for the scheme in 2019-2020.
+
+Actuals2019-2020 - Capital – The capital expenditure incurred for the scheme in 2019-2020.
+
+Actuals2019-2020 - Total – The total expenditure (revenue + capital) for 2019-2020.
+
+Budget Estimates2020-2021 - Revenue – Estimated revenue expenditure for 2020-2021.
+
+Budget Estimates2020-2021 - Capital – Estimated capital expenditure for 2020-2021.
+
+Budget Estimates2020-2021 - Total – Total estimated expenditure for 2020-2021.
+
+Revised Estimates2020-2021 - Revenue – Revised revenue expenditure for 2020-2021.
+
+Revised Estimates2020-2021 - Capital – Revised capital expenditure for 2020-2021.
+
+Revised Estimates2020-2021 - Total – Revised total expenditure for 2020-2021.
+
+Budget Estimates2021-2022 - Revenue – Estimated revenue expenditure for 2021-2022.
+
+Budget Estimates2021-2022 - Capital – Estimated capital expenditure for 2021-2022.
+
+Budget Estimates2021-2022 - Total – Total estimated expenditure for 2021-2022.
