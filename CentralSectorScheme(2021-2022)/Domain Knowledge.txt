@@ -33,3 +33,7 @@ Budget Estimates2021-2022 - Revenue – Estimated revenue expenditure for 2021-2
 Budget Estimates2021-2022 - Capital – Estimated capital expenditure for 2021-2022.
 
 Budget Estimates2021-2022 - Total – Total estimated expenditure for 2021-2022.
+
+
+Conclusion:
+The analysis of the Center Sector Scheme 2021-22 dataset provided insights into government spending trends across various schemes and ministries. By cleaning and visualizing the data, we observed key budget patterns and expenditure variations. Further analysis could focus on identifying underfunded areas, budget deviations, and their impact on policy decisions.
