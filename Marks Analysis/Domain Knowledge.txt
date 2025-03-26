@@ -1,0 +1,22 @@
+Dataset Overview
+The dataset consists of 86 student records with 12 columns representing scores obtained in various questions of an examination. The primary column, "Total", records the total marks achieved by each student. The remaining columns correspond to individual question scores, labeled as Q1aM4, Q1bM6, Q2aM6, Q2bM4, Q3aM5, Q3bM5, Q4aM3, Q4bM7, Q5M10, Q6aM4, and Q6bM6. These labels indicate the question number, part (a or b), and the maximum marks allocated for that part (e.g., Q1aM4 denotes Question 1, Part (a), with a maximum score of 4).
+
+Dataset Description
+The dataset represents student examination scores, containing 86 records and 12 attributes. It captures marks obtained in various questions, along with the total marks per student.
+
+Attributes Overview: Total (Integer) – The overall marks obtained by a student.
+
+Q1aM4, Q1bM6 (Float) – Scores for Question 1, parts (a) and (b), with maximum marks of 4 and 6, respectively.
+
+Q2aM6, Q2bM4 (Float) – Scores for Question 2, parts (a) and (b), with maximum marks of 6 and 4, respectively.
+
+Q3aM5, Q3bM5 (Float) – Scores for Question 3, parts (a) and (b), each carrying a maximum of 5 marks.
+
+Q4aM3, Q4bM7 (Float) – Scores for Question 4, parts (a) and (b), with maximum marks of 3 and 7, respectively.
+
+Q5M10 (Float) – Score for Question 5, with a maximum of 10 marks.
+
+Q6aM4, Q6bM6 (Float) – Scores for Question 6, parts (a) and (b), with maximum marks of 4 and 6, respectively.
+
+Conclusion
+The class marks dataset provides valuable insights into student performance across different examination questions. The data structure includes a total score column along with individual question scores, allowing for an in-depth analysis of scoring patterns, question difficulty, and student response behavior. The presence of missing values in several columns suggests that not all students attempted every question, which could be attributed to factors such as difficulty level, time constraints, or selective answering strategies.To maximize the dataset’s potential, data preprocessing such as handling missing values and normalizing scores may be required. This dataset can be used for performance evaluation, trend identification, and predictive modeling,
